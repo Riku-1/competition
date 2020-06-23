@@ -1,3 +1,5 @@
+package finished.abs
+
 fun main() {
     var s = readLine()!!
 

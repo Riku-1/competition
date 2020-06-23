@@ -1,3 +1,5 @@
+package finished.abs
+
 fun main() {
     val (n, y) = readLine()!!.split(" ").map { it.toInt() }
 

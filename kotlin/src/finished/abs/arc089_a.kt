@@ -1,3 +1,5 @@
+package finished.abs
+
 fun main() {
     val n = readLine()!!.toInt()
     val lines = arrayOfNulls<String>(n)

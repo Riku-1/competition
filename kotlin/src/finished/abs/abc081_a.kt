@@ -1,3 +1,5 @@
+package finished.abs
+
 fun main() {
     val input = readLine()
     var count = 0

@@ -1,3 +1,5 @@
+package finished.abs
+
 fun main() {
     val s = readLine()!!
     var _s = s.reversed()
